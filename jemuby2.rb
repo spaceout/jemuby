@@ -77,3 +77,4 @@ Dir.glob("*").each do |dir_entry|
     delete_folder(dir_entry)
   end
 end
+# added
