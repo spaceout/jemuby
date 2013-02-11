@@ -2,6 +2,7 @@ require "pathname"
 require "fileutils"
 require "net/telnet"
 require "logger"
+require 'rb-inotify'
 
 BASE_PATH = '/home/jemily/renametest/test'
 TVSHOW_BASEPATH = "/home/jemily/renametest/test2"
@@ -11,13 +12,6 @@ XBMC_USERNAME = "xbmc"
 XBMC_PASSWORD = "xbmc"
 XBMC_PORT = "9090"
 MIN_VIDEOSIZE = 1000
-
-@log = Logger.new(STDOUT)
-@log.level = Logger::INFO
-@log.formatter = proc do |severity, datetime, progname, msg|
-  "[#{datetime}] #{severity}: #{msg}\n"
-end
-@log.info "Starting Script"
 
 def process_rars(incoming_folder)
   @log.info "Searching #{incoming_folder} for rar files"
@@ -78,16 +72,33 @@ def escape_glob(s)
   s.gsub(/[\\\{\}\[\]\*\?]/) { |x| "\\"+x }
 end
 
-#Script
-Dir.chdir(BASE_PATH)
-Dir.glob("*").each do |dir_entry|
-  if File.directory?(dir_entry)
-    process_rars(dir_entry)
-    move_videos(dir_entry)
-    delete_folder(dir_entry)
+def setup_logger()
+  @log = Logger.new(STDOUT)
+  @log.level = Logger::INFO
+  @log.formatter = proc do |severity, datetime, progname, msg|
+    "[#{datetime}] #{severity}: #{msg}\n"
   end
+  @log.info "Daemon Launched"
 end
 
+setup_logger()
+Dir.chdir(BASE_PATH)
+notifier = INotify::Notifier.new
+notifier.watch("#{BASE_PATH}", :moved_to, :create) do |dir_entry|
+  @log.info "Notifier Fired!"
+  if File.directory?("#{dir_entry.name}")
+    @log.info "New Directory Seen #{dir_entry.name}"
+    process_rars("#{dir_entry.name}")
+    move_videos("#{dir_entry.name}")
+    delete_folder("#{dir_entry.name}")
+  else
+    @log.info "New File Seen #{dir_entry.name}"
+  end
 filebot_rename()
 #update_xbmc(XBMC_HOSTNAME, XBMC_PORT)
 @log.info "Script Completed successfully"
+end
+
+#Set the Notifier in Motion
+notifier.run
+
