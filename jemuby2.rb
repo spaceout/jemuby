@@ -77,4 +77,7 @@ Dir.glob("*").each do |dir_entry|
     delete_folder(dir_entry)
   end
 end
-# added
+
+filebot_rename()
+update_xbmc(XBMC_HOSTNAME, XBMC_PORT)
+
