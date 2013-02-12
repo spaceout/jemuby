@@ -12,6 +12,7 @@ XBMC_USERNAME = "xbmc"
 XBMC_PASSWORD = "xbmc"
 XBMC_PORT = "9090"
 MIN_VIDEOSIZE = 1000
+WATCHER_ENABLED = true
 
 def process_rars(incoming_folder)
   @log.info "Searching #{incoming_folder} for rar files"
@@ -78,27 +79,47 @@ def setup_logger()
   @log.formatter = proc do |severity, datetime, progname, msg|
     "[#{datetime}] #{severity}: #{msg}\n"
   end
-  @log.info "Daemon Launched"
+  @log.info "Logger Initialized"
+end
+
+def post_process()
+  filebot_rename()
+  #update_xbmc(XBMC_HOSTNAME, XBMC_PORT)
+  @log.info "Script Completed successfully"
+end
+
+def process_dir(directory)
+  process_rars(directory)
+  move_videos(directory)
+  delete_folder(directory)
 end
 
 setup_logger()
 Dir.chdir(BASE_PATH)
-notifier = INotify::Notifier.new
-notifier.watch("#{BASE_PATH}", :moved_to, :create) do |dir_entry|
-  @log.info "Notifier Fired!"
-  if File.directory?("#{dir_entry.name}")
-    @log.info "New Directory Seen #{dir_entry.name}"
-    process_rars("#{dir_entry.name}")
-    move_videos("#{dir_entry.name}")
-    delete_folder("#{dir_entry.name}")
-  else
-    @log.info "New File Seen #{dir_entry.name}"
+
+if WATCHER_ENABLED == false
+  Dir.glob("*").each do |dir_entry|
+    if File.directory?(dir_entry)
+      process_dir(dir_entry)
+    end
   end
-filebot_rename()
-#update_xbmc(XBMC_HOSTNAME, XBMC_PORT)
-@log.info "Script Completed successfully"
+  post_process()
+elsif WATCHER_ENABLED == true
+  @log.info "initializing Watcher on #{BASE_PATH}"
+  notifier = INotify::Notifier.new
+  notifier.watch("#{BASE_PATH}", :move) do |dir_entry|
+    @log.info "Notifier Fired! Pausing Notifier"
+    notifier.stop
+    if File.directory?("#{dir_entry.name}")
+      @log.info "New Directory Seen #{dir_entry.name}"
+      process_dir(dir_entry.name)
+    else
+      @log.info "New File Seen #{dir_entry.name}"
+    end
+    post_process()
+    @log.info "Restarting Notifier"
+    notifier.run
+  end
+  @log.info "Launching Daemon"
+  notifier.run
 end
-
-#Set the Notifier in Motion
-notifier.run
-
