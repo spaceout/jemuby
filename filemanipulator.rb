@@ -3,7 +3,6 @@ require "fileutils"
 require "logger"
 
 VIDEO_EXTENSIONS = [".mkv",".avi",".mp4",".mts",".m2ts"]
-MIN_VIDEOSIZE = 1000
 
 class FileManipulator
   def initialize(logger = nil)
@@ -28,7 +27,7 @@ class FileManipulator
   def move_videos(incoming_folder, base_path, min_videosize)
     @log.info "Begin processing #{incoming_folder} for video files"
     Dir.glob("#{escape_glob(incoming_folder)}/**/*{#{VIDEO_EXTENSIONS.join(",")}}").each do |video_file|
-      if File.size(video_file) > min_videsize
+      if File.size(video_file) > min_videosize
         @log.warn "Moving #{video_file} to #{base_path}"
         FileUtils.mv(video_file, base_path)
       end

@@ -1,16 +1,15 @@
 require "pathname"
 require "fileutils"
-require "net/telnet"
 require "logger"
-require 'rb-inotify'
 require_relative 'filemanipulator'
 
-BASE_PATH = '/home/jemily/renametest/test'
-TVSHOW_BASEPATH = "/home/jemily/renametest/test2"
-VIDEO_EXTENSIONS = [".mkv",".avi",".mp4",".mts",".m2ts"]
+#BASE_PATH = '/home/jemily/renametest/test'
+#TVSHOW_BASEPATH = "/home/jemily/renametest/test2"
+BASE_PATH = '/home/jemily/finished'
+TVSHOW_BASEPATH = '/mnt/tvshows'
 XBMC_HOSTNAME = "nuggetron"
 XBMC_PORT = "9090"
-MIN_VIDEOSIZE = 1000
+MIN_VIDEOSIZE = 50000000
 
 def setup_logger()
   @log = Logger.new(STDOUT)
@@ -27,11 +26,11 @@ pp = PostProcessor.new(@log)
 Dir.chdir(BASE_PATH)
 Dir.glob("*").each do |dir_entry|
   if File.directory?(dir_entry)
-    fm.process_rars(directory)
-    fm.move_videos(directory, BASE_PATH, MIN_VIDEOSIZE)
-    fm.delete_folder(directory, MIN_VIDEOSIZE)
+    fm.process_rars(dir_entry)
+    fm.move_videos(dir_entry, BASE_PATH, MIN_VIDEOSIZE)
+    fm.delete_folder(dir_entry, MIN_VIDEOSIZE)
   end
 end
 pp.filebot_rename(BASE_PATH, TVSHOW_BASEPATH)
-#pp.update_xbmc(XMBC_HOSTNAME, XBMC_PORT)
+pp.update_xbmc(XBMC_HOSTNAME, XBMC_PORT)
 @log.info "Script Completed successfully"
