@@ -1,6 +1,7 @@
 require "pathname"
 require "fileutils"
 require "logger"
+require "net/telnet"
 
 VIDEO_EXTENSIONS = [".mkv",".avi",".mp4",".mts",".m2ts"]
 
