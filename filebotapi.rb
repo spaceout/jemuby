@@ -22,7 +22,7 @@ class FileBotAPI
     filebot_history = XmlSimple.xml_in(filebot_log)
     @log.info "FileBot History From: #{filebot_history['sequence'].last['date']}"
     filebot_history['sequence'].last['rename'].each do |rename_item|
-      @log.info "FROM: " + rename_item['from'] + "TO: " + rename_item['to']
+      @log.info "FROM: " + rename_item['from'] + " TO: " + rename_item['to']
     end
     @log.info "End FileBot History"
   end
