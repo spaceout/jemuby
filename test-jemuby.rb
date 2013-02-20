@@ -19,13 +19,20 @@ TRANSMISSION_USER = "transmission"
 TRANSMISSION_PASSWORD = "transmission"
 FILEBOT_LOG = '/home/jemily/.filebot/history.xml'
 RUNFROM_CLI = true
+LOGTOFILE = true
+LOGFILE = '/home/jemily/jemuby/jemuby_log.txt'
 
-log = Logger.new(STDOUT)
-log.level = Logger::INFO
-log.formatter = proc do |severity, datetime, progname, msg|
-  "[#{datetime}] #{severity}: #{msg}\n"
+if LOGTOFILE == false
+  log = Logger.new(STDOUT)
+elsif LOGTOFILE == true
+  log = Logger.new(LOGFILE, 'weekly')
 end
-log.info "Logger Initialized"
+log.level = Logger::INFO
+log.datetime_format = "%Y-%m-%d %H:%M:%S"
+log.formatter = proc do |severity, datetime, progname, msg|
+  "[#{datetime.strftime(log.datetime_format)}] #{severity}: #{msg}\n"
+end
+log.info "Script Initialized"
 
 processGo = false
 log.info "Transmission processing Started"
