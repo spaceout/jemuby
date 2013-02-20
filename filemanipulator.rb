@@ -3,9 +3,11 @@ require "fileutils"
 require "logger"
 require "net/telnet"
 
-VIDEO_EXTENSIONS = [".mkv",".avi",".mp4",".mts",".m2ts"]
 
 class FileManipulator
+
+  VIDEO_EXTENSIONS = [".mkv",".avi",".mp4",".mts",".m2ts"]
+
   def initialize(logger = nil)
     @log = logger || Logger.new(STDOUT)
   end
@@ -48,30 +50,5 @@ class FileManipulator
 
   def escape_glob(s)
     s.gsub(/[\\\{\}\[\]\*\?]/) { |x| "\\"+x }
-  end
-end
-
-class PostProcessor
-  def initialize(logger = nil)
-    @log = logger || Logger.new(STDOUT)
-  end
-
-  def filebot_rename(base_path, tvshow_basepath)
-    @log.info "Begin FileBot Rename"
-    `filebot -rename #{base_path} --db thetvdb --format \"#{tvshow_basepath}/{n}/{n} - s{s.pad(2)}e{es*.pad(2)join('e')} - {t}\" -non-strict`
-    if $? == 0
-      @log.info "Filebot Rename Successful!"
-    elsif $? != 0
-      @log.error "ERROR WITH RENAME"
-      abort("FATAL ERROR WITH RENAME")
-    end
-  end
-
-  def update_xbmc(hostname, port)
-    @log.info "Begin Updating XBMC"
-    telnethost = Net::Telnet::new("Host" => "#{hostname}","Port" => "#{port}", "Timeout" => 10,"Prompt" => /.*/, "Waittime" => 3)
-    telnethost.cmd(%{{"jsonrpc":"2.0","method":"VideoLibrary.Scan","id":1}}) { |c| puts c}
-    telnethost.close
-    @log.info "XBMC Update is probably complete?"
   end
 end
