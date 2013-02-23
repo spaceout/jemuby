@@ -29,7 +29,7 @@ class FileManipulator
 
   def move_videos(incoming_folder, base_path, min_videosize)
     @log.info "Begin processing #{incoming_folder} for video files"
-    all_video_files(incoming_folder).each do |video_file|
+    Dir.glob("#{escape_glob(incoming_folder)}/**/*{#{VIDEO_EXTENSIONS.join(",")}}").each do |video_file|
       if File.size(video_file) > min_videosize
         @log.warn "Moving #{video_file} to #{base_path}"
         FileUtils.mv(video_file, base_path)
@@ -39,19 +39,13 @@ class FileManipulator
 
   def delete_folder(incoming_folder, min_videosize)
     @log.info "Double Checking to make sure #{incoming_folder} is clean"
-    all_video_files(incoming_folder).each do |video_file|
+    Dir.glob("#{escape_glob(incoming_folder)}/**/*{#{VIDEO_EXTENSIONS.join(",")}}").each do |video_file|
       if File.size(video_file) > min_videosize
         abort("FATAL ERROR #{incoming_folder} IS NOT EMPTY")
       end
     end
     @log.warn "Deleting #{incoming_folder}"
     FileUtils.rm_rf(incoming_folder)
-  end
-  
-  def all_video_files(incoming_folder)
-    Dir.glob("#{escape_glob(incoming_folder)}/**/*{#{VIDEO_EXTENSIONS.join(",")}}").each do |video_file|
-      yield video_file
-    end
   end
 
   def escape_glob(s)

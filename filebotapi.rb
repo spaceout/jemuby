@@ -15,7 +15,7 @@ class FileBotAPI
     elsif $? != 0
       @log.error "ERROR WITH RENAME"
       puts fb_result
-      abort("FATAL ERROR WITH RENAME")
+      abort
     end
   end
 
