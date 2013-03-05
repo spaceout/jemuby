@@ -1,0 +1,10 @@
+This script is an automation script, requires a few pieces of software:
+
+Transmission bittorrent downloader
+Filebot Java File Renamer
+Flexget (optional)
+
+This script will wait for a download to finish in transmission, if it was added by flexget then it will remove it from transmission, unrar/extract it and cleanup folders, then call filebot to rename the files
+
+
+

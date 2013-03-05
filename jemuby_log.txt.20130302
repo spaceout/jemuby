@@ -1,0 +1,725 @@
+# Logfile created on 2013-02-25 00:25:17 -0500 by logger.rb/31641
+[2013-02-25 00:25:17] INFO: Script Initialized
+[2013-02-25 00:25:17] INFO: Transmission processing Started
+[2013-02-25 00:25:17] INFO: Get All Downloads
+[2013-02-25 00:25:17] INFO: Bad Session ID changing...
+[2013-02-25 00:25:17] INFO: New Session ID: S4i6BKtGoIM1m9kOfQVsd5Mgi3ZpFq84t8hkWsOZ2tPJDNSb
+[2013-02-25 00:25:17] INFO: Retrying Post
+[2013-02-25 00:25:17] WARN: Removing [ www.Torrenting.com ] - The.Walking.Dead.S03E11.720p.HDTV.x264-EVOLVE from Transmission
+[2013-02-25 00:25:17] INFO: Remove Torrent: 26
+[2013-02-25 00:25:17] INFO: Transmission processing Complete
+[2013-02-25 00:25:17] INFO: Searching [ www.Torrenting.com ] - The.Walking.Dead.S03E11.720p.HDTV.x264-EVOLVE for rar files
+[2013-02-25 00:25:17] INFO: Completed rar processing on [ www.Torrenting.com ] - The.Walking.Dead.S03E11.720p.HDTV.x264-EVOLVE
+[2013-02-25 00:25:17] INFO: Begin processing [ www.Torrenting.com ] - The.Walking.Dead.S03E11.720p.HDTV.x264-EVOLVE for video files
+[2013-02-25 00:25:17] WARN: Moving [ www.Torrenting.com ] - The.Walking.Dead.S03E11.720p.HDTV.x264-EVOLVE/The.Walking.Dead.S03E11.720p.HDTV.x264-EVOLVE.mkv to /home/jemily/finished/tvshows
+[2013-02-25 00:25:17] INFO: Double Checking to make sure [ www.Torrenting.com ] - The.Walking.Dead.S03E11.720p.HDTV.x264-EVOLVE is clean
+[2013-02-25 00:25:17] WARN: Deleting [ www.Torrenting.com ] - The.Walking.Dead.S03E11.720p.HDTV.x264-EVOLVE
+[2013-02-25 00:25:17] INFO: Begin FileBot Rename
+[2013-02-25 00:25:48] INFO: Filebot Rename Successful!
+[2013-02-25 00:25:48] INFO: FileBot History From: 2013-02-25T00:25:48.039-05:00
+[2013-02-25 00:25:48] INFO: FROM: The.Walking.Dead.S03E11.720p.HDTV.x264-EVOLVE.mkv TO: /mnt/tvshows/The Walking Dead/The Walking Dead - s03e11 - I Ain't a Judas.mkv
+[2013-02-25 00:25:48] INFO: End FileBot History
+[2013-02-25 00:25:48] INFO: Begin Updating XBMC
+[2013-02-25 00:25:52] INFO: XBMC Update is probably complete?
+[2013-02-25 00:25:52] INFO: Script Completed successfully
+[2013-02-25 00:26:19] INFO: Script Initialized
+[2013-02-25 00:26:19] INFO: Transmission processing Started
+[2013-02-25 00:26:19] INFO: Get All Downloads
+[2013-02-25 00:26:19] INFO: Bad Session ID changing...
+[2013-02-25 00:26:19] INFO: New Session ID: S4i6BKtGoIM1m9kOfQVsd5Mgi3ZpFq84t8hkWsOZ2tPJDNSb
+[2013-02-25 00:26:19] INFO: Retrying Post
+[2013-02-25 00:26:19] WARN: Removing [ www.Torrenting.com ] - House.of.Lies.S02E06.720p.HDTV.x264-IMMERSE from Transmission
+[2013-02-25 00:26:19] INFO: Remove Torrent: 27
+[2013-02-25 00:26:19] INFO: Transmission processing Complete
+[2013-02-25 00:26:19] INFO: Searching [ www.Torrenting.com ] - House.of.Lies.S02E06.720p.HDTV.x264-IMMERSE for rar files
+[2013-02-25 00:26:19] INFO: Completed rar processing on [ www.Torrenting.com ] - House.of.Lies.S02E06.720p.HDTV.x264-IMMERSE
+[2013-02-25 00:26:19] INFO: Begin processing [ www.Torrenting.com ] - House.of.Lies.S02E06.720p.HDTV.x264-IMMERSE for video files
+[2013-02-25 00:26:19] WARN: Moving [ www.Torrenting.com ] - House.of.Lies.S02E06.720p.HDTV.x264-IMMERSE/House.of.Lies.S02E06.720p.HDTV.x264-IMMERSE.mkv to /home/jemily/finished/tvshows
+[2013-02-25 00:26:19] INFO: Double Checking to make sure [ www.Torrenting.com ] - House.of.Lies.S02E06.720p.HDTV.x264-IMMERSE is clean
+[2013-02-25 00:26:19] WARN: Deleting [ www.Torrenting.com ] - House.of.Lies.S02E06.720p.HDTV.x264-IMMERSE
+[2013-02-25 00:26:19] INFO: Begin FileBot Rename
+[2013-02-25 00:26:35] INFO: Filebot Rename Successful!
+[2013-02-25 00:26:35] INFO: FileBot History From: 2013-02-25T00:26:35.236-05:00
+[2013-02-25 00:26:35] INFO: FROM: House.of.Lies.S02E06.720p.HDTV.x264-IMMERSE.mkv TO: /mnt/tvshows/House of Lies/House of Lies - s02e06 - Family Values.mkv
+[2013-02-25 00:26:35] INFO: End FileBot History
+[2013-02-25 00:26:35] INFO: Begin Updating XBMC
+[2013-02-25 00:26:38] INFO: XBMC Update is probably complete?
+[2013-02-25 00:26:38] INFO: Script Completed successfully
+[2013-02-25 02:47:24] INFO: Script Initialized
+[2013-02-25 02:47:24] INFO: Transmission processing Started
+[2013-02-25 02:47:24] INFO: Get All Downloads
+[2013-02-25 02:47:24] INFO: Bad Session ID changing...
+[2013-02-25 02:47:24] INFO: New Session ID: I2v1sJa1Y9QZixSY3tmlPShj16gBUGNueWMLez5u33meFpcL
+[2013-02-25 02:47:24] INFO: Retrying Post
+[2013-02-25 02:47:24] WARN: Removing [ www.Torrenting.com ] - Californication.S06E07.720p.HDTV.x264-2HD from Transmission
+[2013-02-25 02:47:24] INFO: Remove Torrent: 28
+[2013-02-25 02:47:24] INFO: Transmission processing Complete
+[2013-02-25 02:47:24] INFO: Searching [ www.Torrenting.com ] - Californication.S06E07.720p.HDTV.x264-2HD for rar files
+[2013-02-25 02:47:24] INFO: Completed rar processing on [ www.Torrenting.com ] - Californication.S06E07.720p.HDTV.x264-2HD
+[2013-02-25 02:47:24] INFO: Begin processing [ www.Torrenting.com ] - Californication.S06E07.720p.HDTV.x264-2HD for video files
+[2013-02-25 02:47:24] WARN: Moving [ www.Torrenting.com ] - Californication.S06E07.720p.HDTV.x264-2HD/californication.s06e07.720p.hdtv.x264-2hd.mkv to /home/jemily/finished/tvshows
+[2013-02-25 02:47:24] INFO: Double Checking to make sure [ www.Torrenting.com ] - Californication.S06E07.720p.HDTV.x264-2HD is clean
+[2013-02-25 02:47:24] WARN: Deleting [ www.Torrenting.com ] - Californication.S06E07.720p.HDTV.x264-2HD
+[2013-02-25 02:47:24] INFO: Begin FileBot Rename
+[2013-02-25 02:47:45] INFO: Filebot Rename Successful!
+[2013-02-25 02:47:45] INFO: FileBot History From: 2013-02-25T02:47:45.249-05:00
+[2013-02-25 02:47:45] INFO: FROM: californication.s06e07.720p.hdtv.x264-2hd.mkv TO: /mnt/tvshows/Californication/Californication - s06e07 - The Dope Show.mkv
+[2013-02-25 02:47:45] INFO: End FileBot History
+[2013-02-25 02:47:45] INFO: Begin Updating XBMC
+[2013-02-25 02:47:48] INFO: XBMC Update is probably complete?
+[2013-02-25 02:47:48] INFO: Script Completed successfully
+[2013-02-25 23:19:47] INFO: Script Initialized
+[2013-02-25 23:19:47] INFO: Transmission processing Started
+[2013-02-25 23:19:47] INFO: Get All Downloads
+[2013-02-25 23:19:47] INFO: Bad Session ID changing...
+[2013-02-25 23:19:47] INFO: New Session ID: w45SunGYYqeO1XQkgBpnujt31OHTd0QG0t2ph0uGvapl7Yc3
+[2013-02-25 23:19:47] INFO: Retrying Post
+[2013-02-25 23:19:47] WARN: Removing [ www.Torrenting.com ] - How.I.Met.Your.Mother.S08E18.720p.HDTV.X264-DIMENSION from Transmission
+[2013-02-25 23:19:47] INFO: Remove Torrent: 29
+[2013-02-25 23:19:47] INFO: Transmission processing Complete
+[2013-02-25 23:19:47] INFO: Searching [ www.Torrenting.com ] - How.I.Met.Your.Mother.S08E18.720p.HDTV.X264-DIMENSION for rar files
+[2013-02-25 23:19:47] INFO: Completed rar processing on [ www.Torrenting.com ] - How.I.Met.Your.Mother.S08E18.720p.HDTV.X264-DIMENSION
+[2013-02-25 23:19:47] INFO: Begin processing [ www.Torrenting.com ] - How.I.Met.Your.Mother.S08E18.720p.HDTV.X264-DIMENSION for video files
+[2013-02-25 23:19:47] WARN: Moving [ www.Torrenting.com ] - How.I.Met.Your.Mother.S08E18.720p.HDTV.X264-DIMENSION/How.I.Met.Your.Mother.S08E18.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-25 23:19:47] INFO: Double Checking to make sure [ www.Torrenting.com ] - How.I.Met.Your.Mother.S08E18.720p.HDTV.X264-DIMENSION is clean
+[2013-02-25 23:19:47] WARN: Deleting [ www.Torrenting.com ] - How.I.Met.Your.Mother.S08E18.720p.HDTV.X264-DIMENSION
+[2013-02-25 23:19:47] INFO: Begin FileBot Rename
+[2013-02-25 23:20:07] INFO: Filebot Rename Successful!
+[2013-02-25 23:20:08] INFO: FileBot History From: 2013-02-25T23:20:07.272-05:00
+[2013-02-25 23:20:08] INFO: FROM: How.I.Met.Your.Mother.S08E18.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/How I Met Your Mother/How I Met Your Mother - s08e18 - Weekend at Barney's.mkv
+[2013-02-25 23:20:08] INFO: End FileBot History
+[2013-02-25 23:20:08] INFO: Begin Updating XBMC
+[2013-02-25 23:20:11] INFO: XBMC Update is probably complete?
+[2013-02-25 23:20:11] INFO: Script Completed successfully
+[2013-02-26 00:11:55] INFO: Script Initialized
+[2013-02-26 00:11:55] INFO: Transmission processing Started
+[2013-02-26 00:11:55] INFO: Get All Downloads
+[2013-02-26 00:11:55] INFO: Bad Session ID changing...
+[2013-02-26 00:11:55] INFO: New Session ID: w45SunGYYqeO1XQkgBpnujt31OHTd0QG0t2ph0uGvapl7Yc3
+[2013-02-26 00:11:55] INFO: Retrying Post
+[2013-02-26 00:11:55] WARN: Removing [ www.Torrenting.com ] - 2.Broke.Girls.S02E18.720p.HDTV.X264-DIMENSION from Transmission
+[2013-02-26 00:11:55] INFO: Remove Torrent: 31
+[2013-02-26 00:11:55] INFO: Transmission processing Complete
+[2013-02-26 00:11:55] INFO: Searching [ www.Torrenting.com ] - 2.Broke.Girls.S02E18.720p.HDTV.X264-DIMENSION for rar files
+[2013-02-26 00:11:55] INFO: Completed rar processing on [ www.Torrenting.com ] - 2.Broke.Girls.S02E18.720p.HDTV.X264-DIMENSION
+[2013-02-26 00:11:55] INFO: Begin processing [ www.Torrenting.com ] - 2.Broke.Girls.S02E18.720p.HDTV.X264-DIMENSION for video files
+[2013-02-26 00:11:55] WARN: Moving [ www.Torrenting.com ] - 2.Broke.Girls.S02E18.720p.HDTV.X264-DIMENSION/2.Broke.Girls.S02E18.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 00:11:55] INFO: Double Checking to make sure [ www.Torrenting.com ] - 2.Broke.Girls.S02E18.720p.HDTV.X264-DIMENSION is clean
+[2013-02-26 00:11:55] WARN: Deleting [ www.Torrenting.com ] - 2.Broke.Girls.S02E18.720p.HDTV.X264-DIMENSION
+[2013-02-26 00:11:55] INFO: Begin FileBot Rename
+[2013-02-26 00:12:14] INFO: Filebot Rename Successful!
+[2013-02-26 00:12:14] INFO: FileBot History From: 2013-02-26T00:12:14.024-05:00
+[2013-02-26 00:12:14] INFO: FROM: 2.Broke.Girls.S02E18.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/2 Broke Girls/2 Broke Girls - s02e18 - And Not-So-Sweet Charity.mkv
+[2013-02-26 00:12:14] INFO: End FileBot History
+[2013-02-26 00:12:14] INFO: Begin Updating XBMC
+[2013-02-26 00:12:17] INFO: XBMC Update is probably complete?
+[2013-02-26 00:12:17] INFO: Script Completed successfully
+[2013-02-26 00:13:40] INFO: Script Initialized
+[2013-02-26 00:13:40] INFO: Transmission processing Started
+[2013-02-26 00:13:40] INFO: Get All Downloads
+[2013-02-26 00:13:40] INFO: Bad Session ID changing...
+[2013-02-26 00:13:40] INFO: New Session ID: w45SunGYYqeO1XQkgBpnujt31OHTd0QG0t2ph0uGvapl7Yc3
+[2013-02-26 00:13:40] INFO: Retrying Post
+[2013-02-26 00:13:40] WARN: Removing [ www.Torrenting.com ] - Castle.2009.S05E16.720p.HDTV.X264-DIMENSION from Transmission
+[2013-02-26 00:13:40] INFO: Remove Torrent: 30
+[2013-02-26 00:13:40] INFO: Transmission processing Complete
+[2013-02-26 00:13:40] INFO: Searching [ www.Torrenting.com ] - Castle.2009.S05E16.720p.HDTV.X264-DIMENSION for rar files
+[2013-02-26 00:13:40] INFO: Completed rar processing on [ www.Torrenting.com ] - Castle.2009.S05E16.720p.HDTV.X264-DIMENSION
+[2013-02-26 00:13:40] INFO: Begin processing [ www.Torrenting.com ] - Castle.2009.S05E16.720p.HDTV.X264-DIMENSION for video files
+[2013-02-26 00:13:40] WARN: Moving [ www.Torrenting.com ] - Castle.2009.S05E16.720p.HDTV.X264-DIMENSION/Castle.2009.S05E16.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 00:13:40] INFO: Double Checking to make sure [ www.Torrenting.com ] - Castle.2009.S05E16.720p.HDTV.X264-DIMENSION is clean
+[2013-02-26 00:13:40] WARN: Deleting [ www.Torrenting.com ] - Castle.2009.S05E16.720p.HDTV.X264-DIMENSION
+[2013-02-26 00:13:40] INFO: Begin FileBot Rename
+[2013-02-26 00:13:59] INFO: Filebot Rename Successful!
+[2013-02-26 00:13:59] INFO: FileBot History From: 2013-02-26T00:13:59.254-05:00
+[2013-02-26 00:13:59] INFO: FROM: Castle.2009.S05E16.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Castle (2009)/Castle (2009) - s05e16 - Hunt (2).mkv
+[2013-02-26 00:13:59] INFO: End FileBot History
+[2013-02-26 00:13:59] INFO: Begin Updating XBMC
+[2013-02-26 00:14:02] INFO: XBMC Update is probably complete?
+[2013-02-26 00:14:02] INFO: Script Completed successfully
+[2013-02-26 00:48:14] INFO: Script Initialized
+[2013-02-26 00:48:14] INFO: Transmission processing Started
+[2013-02-26 00:48:14] INFO: Get All Downloads
+[2013-02-26 00:48:14] INFO: Bad Session ID changing...
+[2013-02-26 00:48:14] INFO: New Session ID: uJRFtZ1jKFAzGgd1G3bW0r77dcsM0M9ocLbD37qAVOQpwEd5
+[2013-02-26 00:48:14] INFO: Retrying Post
+[2013-02-26 00:48:14] WARN: Removing [ www.Torrenting.com ] - Bones.S08E17.720p.HDTV.X264-DIMENSION from Transmission
+[2013-02-26 00:48:14] INFO: Remove Torrent: 34
+[2013-02-26 00:48:14] INFO: Transmission processing Complete
+[2013-02-26 00:48:14] INFO: Searching [ www.Torrenting.com ] - Bones.S08E17.720p.HDTV.X264-DIMENSION for rar files
+[2013-02-26 00:48:14] INFO: Completed rar processing on [ www.Torrenting.com ] - Bones.S08E17.720p.HDTV.X264-DIMENSION
+[2013-02-26 00:48:14] INFO: Begin processing [ www.Torrenting.com ] - Bones.S08E17.720p.HDTV.X264-DIMENSION for video files
+[2013-02-26 00:48:14] WARN: Moving [ www.Torrenting.com ] - Bones.S08E17.720p.HDTV.X264-DIMENSION/Bones.S08E17.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 00:48:14] INFO: Double Checking to make sure [ www.Torrenting.com ] - Bones.S08E17.720p.HDTV.X264-DIMENSION is clean
+[2013-02-26 00:48:14] WARN: Deleting [ www.Torrenting.com ] - Bones.S08E17.720p.HDTV.X264-DIMENSION
+[2013-02-26 00:48:14] INFO: Begin FileBot Rename
+[2013-02-26 00:48:40] INFO: Filebot Rename Successful!
+[2013-02-26 00:48:40] INFO: FileBot History From: 2013-02-26T00:48:39.498-05:00
+[2013-02-26 00:48:40] INFO: FROM: Bones.S08E17.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Bones/Bones - s08e17 - The Fact in the Fiction.mkv
+[2013-02-26 00:48:40] INFO: End FileBot History
+[2013-02-26 00:48:40] INFO: Begin Updating XBMC
+[2013-02-26 00:48:43] INFO: XBMC Update is probably complete?
+[2013-02-26 00:48:43] INFO: Script Completed successfully
+[2013-02-26 00:53:36] INFO: Script Initialized
+[2013-02-26 00:53:36] INFO: Transmission processing Started
+[2013-02-26 00:53:36] INFO: Get All Downloads
+[2013-02-26 00:53:36] INFO: Bad Session ID changing...
+[2013-02-26 00:53:36] INFO: New Session ID: uJRFtZ1jKFAzGgd1G3bW0r77dcsM0M9ocLbD37qAVOQpwEd5
+[2013-02-26 00:53:36] INFO: Retrying Post
+[2013-02-26 00:53:36] WARN: Removing [ www.Torrenting.com ] - The.New.Normal.S01E17.720p.HDTV.X264-DIMENSION from Transmission
+[2013-02-26 00:53:36] INFO: Remove Torrent: 32
+[2013-02-26 00:53:36] INFO: Transmission processing Complete
+[2013-02-26 00:53:36] INFO: Searching [ www.Torrenting.com ] - The.New.Normal.S01E17.720p.HDTV.X264-DIMENSION for rar files
+[2013-02-26 00:53:36] INFO: Completed rar processing on [ www.Torrenting.com ] - The.New.Normal.S01E17.720p.HDTV.X264-DIMENSION
+[2013-02-26 00:53:36] INFO: Begin processing [ www.Torrenting.com ] - The.New.Normal.S01E17.720p.HDTV.X264-DIMENSION for video files
+[2013-02-26 00:53:36] WARN: Moving [ www.Torrenting.com ] - The.New.Normal.S01E17.720p.HDTV.X264-DIMENSION/The.New.Normal.S01E17.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 00:53:36] INFO: Double Checking to make sure [ www.Torrenting.com ] - The.New.Normal.S01E17.720p.HDTV.X264-DIMENSION is clean
+[2013-02-26 00:53:36] WARN: Deleting [ www.Torrenting.com ] - The.New.Normal.S01E17.720p.HDTV.X264-DIMENSION
+[2013-02-26 00:53:36] INFO: Begin FileBot Rename
+[2013-02-26 00:53:50] INFO: Filebot Rename Successful!
+[2013-02-26 00:53:50] INFO: FileBot History From: 2013-02-26T00:53:49.905-05:00
+[2013-02-26 00:53:50] INFO: FROM: The.New.Normal.S01E17.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/The New Normal/The New Normal - s01e17 - Rocky Bye Baby.mkv
+[2013-02-26 00:53:50] INFO: End FileBot History
+[2013-02-26 00:53:50] INFO: Begin Updating XBMC
+[2013-02-26 00:53:53] INFO: XBMC Update is probably complete?
+[2013-02-26 00:53:53] INFO: Script Completed successfully
+[2013-02-26 01:13:35] INFO: Script Initialized
+[2013-02-26 01:13:35] INFO: Transmission processing Started
+[2013-02-26 01:13:35] INFO: Get All Downloads
+[2013-02-26 01:13:35] INFO: Bad Session ID changing...
+[2013-02-26 01:13:35] INFO: New Session ID: uJRFtZ1jKFAzGgd1G3bW0r77dcsM0M9ocLbD37qAVOQpwEd5
+[2013-02-26 01:13:35] INFO: Retrying Post
+[2013-02-26 01:13:35] WARN: Removing [ www.Torrenting.com ] - Rules.of.Engagement.S07E04.720p.HDTV.X264-DIMENSION from Transmission
+[2013-02-26 01:13:35] INFO: Remove Torrent: 33
+[2013-02-26 01:13:35] INFO: Transmission processing Complete
+[2013-02-26 01:13:35] INFO: Searching [ www.Torrenting.com ] - Rules.of.Engagement.S07E04.720p.HDTV.X264-DIMENSION for rar files
+[2013-02-26 01:13:35] INFO: Completed rar processing on [ www.Torrenting.com ] - Rules.of.Engagement.S07E04.720p.HDTV.X264-DIMENSION
+[2013-02-26 01:13:35] INFO: Begin processing [ www.Torrenting.com ] - Rules.of.Engagement.S07E04.720p.HDTV.X264-DIMENSION for video files
+[2013-02-26 01:13:35] WARN: Moving [ www.Torrenting.com ] - Rules.of.Engagement.S07E04.720p.HDTV.X264-DIMENSION/Rules.of.Engagement.S07E04.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 01:13:35] INFO: Double Checking to make sure [ www.Torrenting.com ] - Rules.of.Engagement.S07E04.720p.HDTV.X264-DIMENSION is clean
+[2013-02-26 01:13:35] WARN: Deleting [ www.Torrenting.com ] - Rules.of.Engagement.S07E04.720p.HDTV.X264-DIMENSION
+[2013-02-26 01:13:35] INFO: Begin FileBot Rename
+[2013-02-26 01:13:56] INFO: Filebot Rename Successful!
+[2013-02-26 01:13:56] INFO: FileBot History From: 2013-02-26T01:13:56.228-05:00
+[2013-02-26 01:13:56] INFO: FROM: Rules.of.Engagement.S07E04.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Rules of Engagement/Rules of Engagement - s07e04 - Cupcake.mkv
+[2013-02-26 01:13:56] INFO: End FileBot History
+[2013-02-26 01:13:56] INFO: Begin Updating XBMC
+[2013-02-26 01:13:59] INFO: XBMC Update is probably complete?
+[2013-02-26 01:13:59] INFO: Script Completed successfully
+[2013-02-26 01:32:51] INFO: Script Initialized
+[2013-02-26 01:32:51] INFO: Transmission processing Started
+[2013-02-26 01:32:51] INFO: Get All Downloads
+[2013-02-26 01:32:51] INFO: Bad Session ID changing...
+[2013-02-26 01:32:51] INFO: New Session ID: uJRFtZ1jKFAzGgd1G3bW0r77dcsM0M9ocLbD37qAVOQpwEd5
+[2013-02-26 01:32:51] INFO: Retrying Post
+[2013-02-26 01:32:51] WARN: Removing The.Following.S01E06.720p.HDTV.X264-DIMENSION from Transmission
+[2013-02-26 01:32:51] INFO: Remove Torrent: 35
+[2013-02-26 01:32:51] INFO: Transmission processing Complete
+[2013-02-26 01:32:51] INFO: Searching The.Following.S01E06.720p.HDTV.X264-DIMENSION for rar files
+[2013-02-26 01:32:51] INFO: Completed rar processing on The.Following.S01E06.720p.HDTV.X264-DIMENSION
+[2013-02-26 01:32:51] INFO: Begin processing The.Following.S01E06.720p.HDTV.X264-DIMENSION for video files
+[2013-02-26 01:32:51] WARN: Moving The.Following.S01E06.720p.HDTV.X264-DIMENSION/The.Following.S01E06.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 01:32:51] INFO: Double Checking to make sure The.Following.S01E06.720p.HDTV.X264-DIMENSION is clean
+[2013-02-26 01:32:51] WARN: Deleting The.Following.S01E06.720p.HDTV.X264-DIMENSION
+[2013-02-26 01:32:51] INFO: Begin FileBot Rename
+[2013-02-26 01:33:13] INFO: Filebot Rename Successful!
+[2013-02-26 01:33:13] INFO: FileBot History From: 2013-02-26T01:33:13.198-05:00
+[2013-02-26 01:33:13] INFO: FROM: The.Following.S01E06.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/The Following/The Following - s01e06 - The Fall.mkv
+[2013-02-26 01:33:13] INFO: End FileBot History
+[2013-02-26 01:33:13] INFO: Begin Updating XBMC
+[2013-02-26 01:33:17] INFO: XBMC Update is probably complete?
+[2013-02-26 01:33:17] INFO: Script Completed successfully
+[2013-02-26 21:16:16] INFO: Script Initialized
+[2013-02-26 21:16:16] INFO: Transmission processing Started
+[2013-02-26 21:16:16] INFO: Get All Downloads
+[2013-02-26 21:16:16] INFO: Bad Session ID changing...
+[2013-02-26 21:16:16] INFO: New Session ID: zokzI3Gg18WxzUCaGbhxafUBc0W8l5UaeXeUOPCJe1cWK2y5
+[2013-02-26 21:16:16] INFO: Retrying Post
+[2013-02-26 21:16:16] WARN: Removing Raising.Hope.S03E19.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-26 21:16:16] INFO: Remove Torrent: 1
+[2013-02-26 21:16:16] INFO: Transmission processing Complete
+[2013-02-26 21:16:16] INFO: Searching Raising.Hope.S03E19.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-26 21:16:16] INFO: Completed rar processing on Raising.Hope.S03E19.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 21:16:16] INFO: Begin processing Raising.Hope.S03E19.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-26 21:16:16] WARN: Moving Raising.Hope.S03E19.720p.HDTV.X264-DIMENSION [PublicHD]/Raising.Hope.S03E19.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 21:16:16] INFO: Double Checking to make sure Raising.Hope.S03E19.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-26 21:16:16] WARN: Deleting Raising.Hope.S03E19.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 21:16:16] INFO: Begin FileBot Rename
+[2013-02-26 21:16:35] INFO: Filebot Rename Successful!
+[2013-02-26 21:16:35] INFO: FileBot History From: 2013-02-26T21:16:35.045-05:00
+[2013-02-26 21:16:35] INFO: FROM: Raising.Hope.S03E19.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Raising Hope/Raising Hope - s03e19 - Making the Band.mkv
+[2013-02-26 21:16:35] INFO: End FileBot History
+[2013-02-26 21:16:35] INFO: Begin Updating XBMC
+[2013-02-26 21:16:39] INFO: XBMC Update is probably complete?
+[2013-02-26 21:16:39] INFO: Script Completed successfully
+[2013-02-26 22:23:54] INFO: Script Initialized
+[2013-02-26 22:23:54] INFO: Transmission processing Started
+[2013-02-26 22:23:54] INFO: Get All Downloads
+[2013-02-26 22:23:54] INFO: Bad Session ID changing...
+[2013-02-26 22:23:54] INFO: New Session ID: LUndAtaOjhHdvhV0QfwaxZvabnyH1G5bsSOd67E8EzUfd0BN
+[2013-02-26 22:23:54] INFO: Retrying Post
+[2013-02-26 22:23:54] WARN: Removing Raising.Hope.S03E20.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-26 22:23:54] INFO: Remove Torrent: 4
+[2013-02-26 22:23:54] INFO: Transmission processing Complete
+[2013-02-26 22:23:54] INFO: Searching Raising.Hope.S03E20.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-26 22:23:54] INFO: Completed rar processing on Raising.Hope.S03E20.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 22:23:54] INFO: Begin processing Raising.Hope.S03E20.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-26 22:23:54] WARN: Moving Raising.Hope.S03E20.720p.HDTV.X264-DIMENSION [PublicHD]/Raising.Hope.S03E20.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 22:23:54] INFO: Double Checking to make sure Raising.Hope.S03E20.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-26 22:23:54] WARN: Deleting Raising.Hope.S03E20.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 22:23:54] INFO: Begin FileBot Rename
+[2013-02-26 22:24:07] INFO: Filebot Rename Successful!
+[2013-02-26 22:24:07] INFO: FileBot History From: 2013-02-26T22:24:06.678-05:00
+[2013-02-26 22:24:07] INFO: FROM: Raising.Hope.S03E20.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Raising Hope/Raising Hope - s03e20 - The Old Girl.mkv
+[2013-02-26 22:24:07] INFO: End FileBot History
+[2013-02-26 22:24:07] INFO: Begin Updating XBMC
+[2013-02-26 22:24:11] INFO: XBMC Update is probably complete?
+[2013-02-26 22:24:11] INFO: Script Completed successfully
+[2013-02-26 22:27:08] INFO: Script Initialized
+[2013-02-26 22:27:08] INFO: Transmission processing Started
+[2013-02-26 22:27:08] INFO: Get All Downloads
+[2013-02-26 22:27:08] INFO: Bad Session ID changing...
+[2013-02-26 22:27:08] INFO: New Session ID: LUndAtaOjhHdvhV0QfwaxZvabnyH1G5bsSOd67E8EzUfd0BN
+[2013-02-26 22:27:08] INFO: Retrying Post
+[2013-02-26 22:27:08] WARN: Removing Go.On.S01E17.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-26 22:27:08] INFO: Remove Torrent: 3
+[2013-02-26 22:27:08] INFO: Transmission processing Complete
+[2013-02-26 22:27:08] INFO: Searching Go.On.S01E17.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-26 22:27:08] INFO: Completed rar processing on Go.On.S01E17.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 22:27:08] INFO: Begin processing Go.On.S01E17.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-26 22:27:08] WARN: Moving Go.On.S01E17.720p.HDTV.X264-DIMENSION [PublicHD]/Go.On.S01E17.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 22:27:08] INFO: Double Checking to make sure Go.On.S01E17.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-26 22:27:08] WARN: Deleting Go.On.S01E17.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 22:27:08] INFO: Begin FileBot Rename
+[2013-02-26 22:27:19] INFO: Filebot Rename Successful!
+[2013-02-26 22:27:19] INFO: FileBot History From: 2013-02-26T22:27:19.215-05:00
+[2013-02-26 22:27:19] INFO: FROM: Go.On.S01E17.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Go On/Go On - s01e17 - Ring and a Miss.mkv
+[2013-02-26 22:27:19] INFO: End FileBot History
+[2013-02-26 22:27:19] INFO: Begin Updating XBMC
+[2013-02-26 22:27:22] INFO: XBMC Update is probably complete?
+[2013-02-26 22:27:22] INFO: Script Completed successfully
+[2013-02-26 23:36:57] INFO: Script Initialized
+[2013-02-26 23:36:57] INFO: Transmission processing Started
+[2013-02-26 23:36:57] INFO: Get All Downloads
+[2013-02-26 23:36:57] INFO: Bad Session ID changing...
+[2013-02-26 23:36:57] INFO: New Session ID: xP1RBvcG2Jjz5S5dDDS3rrLjmzy2r3ECVnOILZD8PYUenaaH
+[2013-02-26 23:36:57] INFO: Retrying Post
+[2013-02-26 23:36:57] WARN: Removing New.Girl.S02E18.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-26 23:36:57] INFO: Remove Torrent: 2
+[2013-02-26 23:36:57] INFO: Transmission processing Complete
+[2013-02-26 23:36:57] INFO: Searching New.Girl.S02E18.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-26 23:36:57] INFO: Completed rar processing on New.Girl.S02E18.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 23:36:57] INFO: Begin processing New.Girl.S02E18.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-26 23:36:57] WARN: Moving New.Girl.S02E18.720p.HDTV.X264-DIMENSION [PublicHD]/New.Girl.S02E18.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 23:36:57] INFO: Double Checking to make sure New.Girl.S02E18.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-26 23:36:57] WARN: Deleting New.Girl.S02E18.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 23:36:57] INFO: Begin FileBot Rename
+[2013-02-26 23:37:17] INFO: Filebot Rename Successful!
+[2013-02-26 23:37:17] INFO: FileBot History From: 2013-02-26T23:37:17.235-05:00
+[2013-02-26 23:37:17] INFO: FROM: New.Girl.S02E18.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/New Girl/New Girl - s02e18 - TinFinity.mkv
+[2013-02-26 23:37:17] INFO: End FileBot History
+[2013-02-26 23:37:17] INFO: Begin Updating XBMC
+[2013-02-26 23:37:21] INFO: XBMC Update is probably complete?
+[2013-02-26 23:37:21] INFO: Script Completed successfully
+[2013-02-26 23:45:24] INFO: Script Initialized
+[2013-02-26 23:45:24] INFO: Transmission processing Started
+[2013-02-26 23:45:24] INFO: Get All Downloads
+[2013-02-26 23:45:24] INFO: Bad Session ID changing...
+[2013-02-26 23:45:24] INFO: New Session ID: xP1RBvcG2Jjz5S5dDDS3rrLjmzy2r3ECVnOILZD8PYUenaaH
+[2013-02-26 23:45:24] INFO: Retrying Post
+[2013-02-26 23:45:24] WARN: Removing Cult.S01E02.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-26 23:45:24] INFO: Remove Torrent: 5
+[2013-02-26 23:45:24] INFO: Transmission processing Complete
+[2013-02-26 23:45:24] INFO: Searching Cult.S01E02.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-26 23:45:24] INFO: Completed rar processing on Cult.S01E02.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 23:45:24] INFO: Begin processing Cult.S01E02.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-26 23:45:24] WARN: Moving Cult.S01E02.720p.HDTV.X264-DIMENSION [PublicHD]/Cult.S01E02.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-26 23:45:24] INFO: Double Checking to make sure Cult.S01E02.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-26 23:45:24] WARN: Deleting Cult.S01E02.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-26 23:45:24] INFO: Begin FileBot Rename
+[2013-02-26 23:45:40] INFO: Filebot Rename Successful!
+[2013-02-26 23:45:40] INFO: FileBot History From: 2013-02-26T23:45:39.836-05:00
+[2013-02-26 23:45:40] INFO: FROM: Cult.S01E02.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Cult/Cult - s01e02 - In the Blood.mkv
+[2013-02-26 23:45:40] INFO: End FileBot History
+[2013-02-26 23:45:40] INFO: Begin Updating XBMC
+[2013-02-26 23:45:43] INFO: XBMC Update is probably complete?
+[2013-02-26 23:45:43] INFO: Script Completed successfully
+[2013-02-27 00:23:04] INFO: Script Initialized
+[2013-02-27 00:23:04] INFO: Transmission processing Started
+[2013-02-27 00:23:04] INFO: Get All Downloads
+[2013-02-27 00:23:04] INFO: Bad Session ID changing...
+[2013-02-27 00:23:04] INFO: New Session ID: xP1RBvcG2Jjz5S5dDDS3rrLjmzy2r3ECVnOILZD8PYUenaaH
+[2013-02-27 00:23:04] INFO: Retrying Post
+[2013-02-27 00:23:04] WARN: Removing White.Collar.S04E15.720p.HDTV.x264-IMMERSE.mkv from Transmission
+[2013-02-27 00:23:04] INFO: Remove Torrent: 6
+[2013-02-27 00:23:04] INFO: Transmission processing Complete
+[2013-02-27 00:23:04] INFO: Begin FileBot Rename
+[2013-02-27 00:23:26] INFO: Filebot Rename Successful!
+[2013-02-27 00:23:26] INFO: FileBot History From: 2013-02-27T00:23:26.373-05:00
+[2013-02-27 00:23:26] INFO: FROM: White.Collar.S04E15.720p.HDTV.x264-IMMERSE.mkv TO: /mnt/tvshows/White Collar/White Collar - s04e15 - The Original.mkv
+[2013-02-27 00:23:26] INFO: End FileBot History
+[2013-02-27 00:23:26] INFO: Begin Updating XBMC
+[2013-02-27 00:23:30] INFO: XBMC Update is probably complete?
+[2013-02-27 00:23:30] INFO: Script Completed successfully
+[2013-02-27 01:41:57] INFO: Script Initialized
+[2013-02-27 01:41:57] INFO: Transmission processing Started
+[2013-02-27 01:41:57] INFO: Get All Downloads
+[2013-02-27 01:41:57] INFO: Bad Session ID changing...
+[2013-02-27 01:41:57] INFO: New Session ID: IvtEvMYEsuS9EW9z5b2A4wAnSPj3u7aYtJB0BV6HwPjVPBjS
+[2013-02-27 01:41:57] INFO: Retrying Post
+[2013-02-27 01:41:57] WARN: Removing NCIS.S10E16.HDTV.x264-2HD.mp4 from Transmission
+[2013-02-27 01:41:57] INFO: Remove Torrent: 7
+[2013-02-27 01:41:57] INFO: Transmission processing Complete
+[2013-02-27 01:41:57] INFO: Begin FileBot Rename
+[2013-02-27 01:42:12] INFO: Filebot Rename Successful!
+[2013-02-27 01:42:12] INFO: FileBot History From: 2013-02-27T01:42:12.351-05:00
+[2013-02-27 01:42:12] INFO: FROM: NCIS.S10E16.HDTV.x264-2HD.mp4 TO: /mnt/tvshows/NCIS/NCIS - s10e16 - Detour.mp4
+[2013-02-27 01:42:12] INFO: End FileBot History
+[2013-02-27 01:42:12] INFO: Begin Updating XBMC
+[2013-02-27 01:42:19] INFO: XBMC Update is probably complete?
+[2013-02-27 01:42:19] INFO: Script Completed successfully
+[2013-02-27 13:22:00] INFO: Script Initialized
+[2013-02-27 13:22:00] INFO: Transmission processing Started
+[2013-02-27 13:22:00] INFO: Get All Downloads
+[2013-02-27 13:22:00] INFO: Bad Session ID changing...
+[2013-02-27 13:22:00] INFO: New Session ID: NbdGJbazW5UBD4eyx453C9gBgggmtFu827yNhNOwc19LK0tJ
+[2013-02-27 13:22:00] INFO: Retrying Post
+[2013-02-27 13:22:00] WARN: Removing [ www.Torrenting.com ] - Body.of.Proof.S03E02.720p.HDTV.X264-DIMENSION from Transmission
+[2013-02-27 13:22:00] INFO: Remove Torrent: 8
+[2013-02-27 13:22:00] INFO: Transmission processing Complete
+[2013-02-27 13:22:00] INFO: Searching [ www.Torrenting.com ] - Body.of.Proof.S03E02.720p.HDTV.X264-DIMENSION for rar files
+[2013-02-27 13:22:00] INFO: Completed rar processing on [ www.Torrenting.com ] - Body.of.Proof.S03E02.720p.HDTV.X264-DIMENSION
+[2013-02-27 13:22:00] INFO: Begin processing [ www.Torrenting.com ] - Body.of.Proof.S03E02.720p.HDTV.X264-DIMENSION for video files
+[2013-02-27 13:22:00] WARN: Moving [ www.Torrenting.com ] - Body.of.Proof.S03E02.720p.HDTV.X264-DIMENSION/Body.of.Proof.S03E02.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-27 13:22:00] INFO: Double Checking to make sure [ www.Torrenting.com ] - Body.of.Proof.S03E02.720p.HDTV.X264-DIMENSION is clean
+[2013-02-27 13:22:00] WARN: Deleting [ www.Torrenting.com ] - Body.of.Proof.S03E02.720p.HDTV.X264-DIMENSION
+[2013-02-27 13:22:00] INFO: Begin FileBot Rename
+[2013-02-27 13:22:15] INFO: Filebot Rename Successful!
+[2013-02-27 13:22:15] INFO: FileBot History From: 2013-02-27T13:22:15.071-05:00
+[2013-02-27 13:22:15] INFO: FROM: Body.of.Proof.S03E02.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Body of Proof/Body of Proof - s03e02 - Abducted - Part 2.mkv
+[2013-02-27 13:22:15] INFO: End FileBot History
+[2013-02-27 13:22:15] INFO: Begin Updating XBMC
+[2013-02-27 13:22:19] INFO: XBMC Update is probably complete?
+[2013-02-27 13:22:19] INFO: Script Completed successfully
+[2013-02-27 19:46:38] INFO: Script Initialized
+[2013-02-27 19:46:38] INFO: Transmission processing Started
+[2013-02-27 19:46:38] INFO: Get All Downloads
+[2013-02-27 19:46:38] INFO: Bad Session ID changing...
+[2013-02-27 19:46:38] INFO: New Session ID: X4viVkg8at2SRyDlN1f1vl2l6GSUiN3rviCBt1O4SwZG9seS
+[2013-02-27 19:46:38] INFO: Retrying Post
+[2013-02-27 19:46:38] WARN: Removing Arrow.S01E16.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-27 19:46:38] INFO: Remove Torrent: 9
+[2013-02-27 19:46:38] INFO: Transmission processing Complete
+[2013-02-27 19:46:38] INFO: Searching Arrow.S01E16.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-27 19:46:38] INFO: Completed rar processing on Arrow.S01E16.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-27 19:46:38] INFO: Begin processing Arrow.S01E16.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-27 19:46:38] WARN: Moving Arrow.S01E16.720p.HDTV.X264-DIMENSION [PublicHD]/Arrow.S01E16.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-27 19:46:38] INFO: Double Checking to make sure Arrow.S01E16.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-27 19:46:38] WARN: Deleting Arrow.S01E16.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-27 19:46:38] INFO: Begin FileBot Rename
+[2013-02-27 19:46:59] INFO: Filebot Rename Successful!
+[2013-02-27 19:46:59] INFO: FileBot History From: 2013-02-27T19:46:59.329-05:00
+[2013-02-27 19:46:59] INFO: FROM: Arrow.S01E16.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Arrow/Arrow - s01e16 - Dead to Rights.mkv
+[2013-02-27 19:46:59] INFO: End FileBot History
+[2013-02-27 19:46:59] INFO: Begin Updating XBMC
+[2013-02-27 19:47:03] INFO: XBMC Update is probably complete?
+[2013-02-27 19:47:03] INFO: Script Completed successfully
+[2013-02-27 20:46:03] INFO: Script Initialized
+[2013-02-27 20:46:03] INFO: Transmission processing Started
+[2013-02-27 20:46:03] INFO: Get All Downloads
+[2013-02-27 20:46:03] INFO: Bad Session ID changing...
+[2013-02-27 20:46:03] INFO: New Session ID: npir0zj3GUS2rQQ30Vmv7nyyWnjXKC4g3bettZpI6A826n9S
+[2013-02-27 20:46:03] INFO: Retrying Post
+[2013-02-27 20:46:03] WARN: Removing CSI.S13E16.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-27 20:46:03] INFO: Remove Torrent: 10
+[2013-02-27 20:46:03] INFO: Transmission processing Complete
+[2013-02-27 20:46:03] INFO: Searching CSI.S13E16.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-27 20:46:03] INFO: Completed rar processing on CSI.S13E16.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-27 20:46:03] INFO: Begin processing CSI.S13E16.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-27 20:46:03] WARN: Moving CSI.S13E16.720p.HDTV.X264-DIMENSION [PublicHD]/CSI.S13E16.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-27 20:46:03] INFO: Double Checking to make sure CSI.S13E16.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-27 20:46:03] WARN: Deleting CSI.S13E16.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-27 20:46:03] INFO: Begin FileBot Rename
+[2013-02-27 20:46:25] INFO: Filebot Rename Successful!
+[2013-02-27 20:46:26] INFO: FileBot History From: 2013-02-27T20:46:25.503-05:00
+[2013-02-27 20:46:26] INFO: FROM: CSI.S13E16.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/CSI Crime Scene Investigation/CSI Crime Scene Investigation - s13e16 - Last Woman Standing.mkv
+[2013-02-27 20:46:26] INFO: End FileBot History
+[2013-02-27 20:46:26] INFO: Begin Updating XBMC
+[2013-02-27 20:46:29] INFO: XBMC Update is probably complete?
+[2013-02-27 20:46:29] INFO: Script Completed successfully
+[2013-02-27 21:20:42] INFO: Script Initialized
+[2013-02-27 21:20:42] INFO: Transmission processing Started
+[2013-02-27 21:20:42] INFO: Get All Downloads
+[2013-02-27 21:20:42] INFO: Bad Session ID changing...
+[2013-02-27 21:20:42] INFO: New Session ID: npir0zj3GUS2rQQ30Vmv7nyyWnjXKC4g3bettZpI6A826n9S
+[2013-02-27 21:20:42] INFO: Retrying Post
+[2013-02-27 21:20:42] WARN: Removing Whitney.S02E11.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-27 21:20:42] INFO: Remove Torrent: 12
+[2013-02-27 21:20:42] INFO: Transmission processing Complete
+[2013-02-27 21:20:42] INFO: Searching Whitney.S02E11.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-27 21:20:42] INFO: Completed rar processing on Whitney.S02E11.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-27 21:20:42] INFO: Begin processing Whitney.S02E11.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-27 21:20:42] WARN: Moving Whitney.S02E11.720p.HDTV.X264-DIMENSION [PublicHD]/Whitney.S02E11.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-27 21:20:42] INFO: Double Checking to make sure Whitney.S02E11.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-27 21:20:42] WARN: Deleting Whitney.S02E11.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-27 21:20:42] INFO: Begin FileBot Rename
+[2013-02-27 21:20:59] INFO: Filebot Rename Successful!
+[2013-02-27 21:20:59] INFO: FileBot History From: 2013-02-27T21:20:59.276-05:00
+[2013-02-27 21:20:59] INFO: FROM: Whitney.S02E11.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Whitney/Whitney - s02e11 - Slow Ride.mkv
+[2013-02-27 21:20:59] INFO: End FileBot History
+[2013-02-27 21:20:59] INFO: Begin Updating XBMC
+[2013-02-27 21:21:03] INFO: XBMC Update is probably complete?
+[2013-02-27 21:21:03] INFO: Script Completed successfully
+[2013-02-27 22:50:11] INFO: Script Initialized
+[2013-02-27 22:50:11] INFO: Transmission processing Started
+[2013-02-27 22:50:11] INFO: Get All Downloads
+[2013-02-27 22:50:11] INFO: Bad Session ID changing...
+[2013-02-27 22:50:11] INFO: New Session ID: aPZpvJskR2ja8WQdsJyw1htbhGMmYiTt9KM02htQellbK02k
+[2013-02-27 22:50:11] INFO: Retrying Post
+[2013-02-27 22:50:11] WARN: Removing [ www.Torrenting.com ] - The.Middle.S04E17.720p.HDTV.X264-DIMENSION from Transmission
+[2013-02-27 22:50:11] INFO: Remove Torrent: 11
+[2013-02-27 22:50:11] INFO: Transmission processing Complete
+[2013-02-27 22:50:11] INFO: Searching [ www.Torrenting.com ] - The.Middle.S04E17.720p.HDTV.X264-DIMENSION for rar files
+[2013-02-27 22:50:11] INFO: Completed rar processing on [ www.Torrenting.com ] - The.Middle.S04E17.720p.HDTV.X264-DIMENSION
+[2013-02-27 22:50:11] INFO: Begin processing [ www.Torrenting.com ] - The.Middle.S04E17.720p.HDTV.X264-DIMENSION for video files
+[2013-02-27 22:50:11] WARN: Moving [ www.Torrenting.com ] - The.Middle.S04E17.720p.HDTV.X264-DIMENSION/The.Middle.S04E17.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-27 22:50:11] INFO: Double Checking to make sure [ www.Torrenting.com ] - The.Middle.S04E17.720p.HDTV.X264-DIMENSION is clean
+[2013-02-27 22:50:11] WARN: Deleting [ www.Torrenting.com ] - The.Middle.S04E17.720p.HDTV.X264-DIMENSION
+[2013-02-27 22:50:11] INFO: Begin FileBot Rename
+[2013-02-27 22:50:28] INFO: Filebot Rename Successful!
+[2013-02-27 22:50:28] INFO: FileBot History From: 2013-02-27T22:50:28.162-05:00
+[2013-02-27 22:50:28] INFO: FROM: The.Middle.S04E17.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/The Middle/The Middle - s04e17 - Wheel of Pain.mkv
+[2013-02-27 22:50:28] INFO: End FileBot History
+[2013-02-27 22:50:28] INFO: Begin Updating XBMC
+[2013-02-27 22:50:32] INFO: XBMC Update is probably complete?
+[2013-02-27 22:50:32] INFO: Script Completed successfully
+[2013-02-27 23:15:41] INFO: Script Initialized
+[2013-02-27 23:15:41] INFO: Transmission processing Started
+[2013-02-27 23:15:41] INFO: Get All Downloads
+[2013-02-27 23:15:41] INFO: Bad Session ID changing...
+[2013-02-27 23:15:41] INFO: New Session ID: HBmp0vQyPnDBuzP64c2txLFnr6yPpcBLI3YRbgpLYH2Nzj9z
+[2013-02-27 23:15:41] INFO: Retrying Post
+[2013-02-27 23:15:41] WARN: Removing Modern.Family.S04E17.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-27 23:15:41] INFO: Remove Torrent: 13
+[2013-02-27 23:15:41] INFO: Transmission processing Complete
+[2013-02-27 23:15:41] INFO: Searching Modern.Family.S04E17.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-27 23:15:41] INFO: Completed rar processing on Modern.Family.S04E17.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-27 23:15:41] INFO: Begin processing Modern.Family.S04E17.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-27 23:15:41] WARN: Moving Modern.Family.S04E17.720p.HDTV.X264-DIMENSION [PublicHD]/Modern.Family.S04E17.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-27 23:15:41] INFO: Double Checking to make sure Modern.Family.S04E17.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-27 23:15:41] WARN: Deleting Modern.Family.S04E17.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-27 23:15:41] INFO: Begin FileBot Rename
+[2013-02-27 23:15:58] INFO: Filebot Rename Successful!
+[2013-02-27 23:15:58] INFO: FileBot History From: 2013-02-27T23:15:58.221-05:00
+[2013-02-27 23:15:58] INFO: FROM: Modern.Family.S04E17.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Modern Family/Modern Family - s04e17 - Best Men.mkv
+[2013-02-27 23:15:58] INFO: End FileBot History
+[2013-02-27 23:15:58] INFO: Begin Updating XBMC
+[2013-02-27 23:16:01] INFO: XBMC Update is probably complete?
+[2013-02-27 23:16:01] INFO: Script Completed successfully
+[2013-02-27 23:38:35] INFO: Script Initialized
+[2013-02-27 23:38:35] INFO: Transmission processing Started
+[2013-02-27 23:38:35] INFO: Get All Downloads
+[2013-02-27 23:38:35] INFO: Bad Session ID changing...
+[2013-02-27 23:38:35] INFO: New Session ID: HBmp0vQyPnDBuzP64c2txLFnr6yPpcBLI3YRbgpLYH2Nzj9z
+[2013-02-27 23:38:35] INFO: Retrying Post
+[2013-02-27 23:38:35] WARN: Removing Workaholics.S03E17.720p.HDTV.x264-IMMERSE [PublicHD] from Transmission
+[2013-02-27 23:38:35] INFO: Remove Torrent: 15
+[2013-02-27 23:38:35] INFO: Transmission processing Complete
+[2013-02-27 23:38:35] INFO: Searching Workaholics.S03E17.720p.HDTV.x264-IMMERSE [PublicHD] for rar files
+[2013-02-27 23:38:35] INFO: Completed rar processing on Workaholics.S03E17.720p.HDTV.x264-IMMERSE [PublicHD]
+[2013-02-27 23:38:35] INFO: Begin processing Workaholics.S03E17.720p.HDTV.x264-IMMERSE [PublicHD] for video files
+[2013-02-27 23:38:35] WARN: Moving Workaholics.S03E17.720p.HDTV.x264-IMMERSE [PublicHD]/Workaholics.S03E17.720p.HDTV.x264-IMMERSE.mkv to /home/jemily/finished/tvshows
+[2013-02-27 23:38:35] INFO: Double Checking to make sure Workaholics.S03E17.720p.HDTV.x264-IMMERSE [PublicHD] is clean
+[2013-02-27 23:38:35] WARN: Deleting Workaholics.S03E17.720p.HDTV.x264-IMMERSE [PublicHD]
+[2013-02-27 23:38:35] INFO: Begin FileBot Rename
+[2013-02-27 23:38:53] INFO: Filebot Rename Successful!
+[2013-02-27 23:38:54] INFO: FileBot History From: 2013-02-27T23:38:53.389-05:00
+[2013-02-27 23:38:54] INFO: FROM: Workaholics.S03E17.720p.HDTV.x264-IMMERSE.mkv TO: /mnt/tvshows/Workaholics/Workaholics - s03e17 - The Worst Generation.mkv
+[2013-02-27 23:38:54] INFO: End FileBot History
+[2013-02-27 23:38:54] INFO: Begin Updating XBMC
+[2013-02-27 23:38:57] INFO: XBMC Update is probably complete?
+[2013-02-27 23:38:57] INFO: Script Completed successfully
+[2013-02-28 00:03:47] INFO: Script Initialized
+[2013-02-28 00:03:47] INFO: Transmission processing Started
+[2013-02-28 00:03:47] INFO: Get All Downloads
+[2013-02-28 00:03:47] INFO: Bad Session ID changing...
+[2013-02-28 00:03:47] INFO: New Session ID: g4q51OfsOivPVT4vhayBQk5naZeiEP3hdWZeMcCEeOZ4UClP
+[2013-02-28 00:03:47] INFO: Retrying Post
+[2013-02-28 00:03:47] WARN: Removing Supernatural.S08E16.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-28 00:03:47] INFO: Remove Torrent: 14
+[2013-02-28 00:03:47] INFO: Transmission processing Complete
+[2013-02-28 00:03:47] INFO: Searching Supernatural.S08E16.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-28 00:03:47] INFO: Completed rar processing on Supernatural.S08E16.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-28 00:03:47] INFO: Begin processing Supernatural.S08E16.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-28 00:03:47] WARN: Moving Supernatural.S08E16.720p.HDTV.X264-DIMENSION [PublicHD]/Supernatural.S08E16.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-28 00:03:47] INFO: Double Checking to make sure Supernatural.S08E16.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-28 00:03:47] WARN: Deleting Supernatural.S08E16.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-28 00:03:47] INFO: Begin FileBot Rename
+[2013-02-28 00:04:07] INFO: Filebot Rename Successful!
+[2013-02-28 00:04:07] INFO: FileBot History From: 2013-02-28T00:04:07.480-05:00
+[2013-02-28 00:04:07] INFO: FROM: Supernatural.S08E16.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Supernatural/Supernatural - s08e16 - Remember the Titans.mkv
+[2013-02-28 00:04:07] INFO: End FileBot History
+[2013-02-28 00:04:07] INFO: Begin Updating XBMC
+[2013-02-28 00:04:11] INFO: XBMC Update is probably complete?
+[2013-02-28 00:04:11] INFO: Script Completed successfully
+[2013-02-28 21:55:22] INFO: Script Initialized
+[2013-02-28 21:55:22] INFO: Transmission processing Started
+[2013-02-28 21:55:22] INFO: Get All Downloads
+[2013-02-28 21:55:22] INFO: Bad Session ID changing...
+[2013-02-28 21:55:22] INFO: New Session ID: jBJL7wQfMWajFoPQ4iUq4yftvvsBEopRUNItE7xaEsYcLyIH
+[2013-02-28 21:55:22] INFO: Retrying Post
+[2013-02-28 21:55:22] WARN: Removing Community.S04E04.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-28 21:55:22] INFO: Remove Torrent: 17
+[2013-02-28 21:55:22] INFO: Transmission processing Complete
+[2013-02-28 21:55:22] INFO: Searching Community.S04E04.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-28 21:55:22] INFO: Completed rar processing on Community.S04E04.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-28 21:55:22] INFO: Begin processing Community.S04E04.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-28 21:55:22] WARN: Moving Community.S04E04.720p.HDTV.X264-DIMENSION [PublicHD]/Community.S04E04.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-28 21:55:22] INFO: Double Checking to make sure Community.S04E04.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-28 21:55:22] WARN: Deleting Community.S04E04.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-28 21:55:22] INFO: Begin FileBot Rename
+[2013-02-28 21:55:41] INFO: Filebot Rename Successful!
+[2013-02-28 21:55:41] INFO: FileBot History From: 2013-02-28T21:55:40.403-05:00
+[2013-02-28 21:55:41] INFO: FROM: Community.S04E04.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Community/Community - s04e04 - Alternative History of the German Invasion.mkv
+[2013-02-28 21:55:41] INFO: End FileBot History
+[2013-02-28 21:55:41] INFO: Begin Updating XBMC
+[2013-02-28 21:55:44] INFO: XBMC Update is probably complete?
+[2013-02-28 21:55:44] INFO: Script Completed successfully
+[2013-02-28 22:53:18] INFO: Script Initialized
+[2013-02-28 22:53:18] INFO: Transmission processing Started
+[2013-02-28 22:53:18] INFO: Get All Downloads
+[2013-02-28 22:53:18] INFO: Bad Session ID changing...
+[2013-02-28 22:53:18] INFO: New Session ID: 9Zn54PyZ88UrB1Qu1KMaqtLjUQbllGqE2oMaQyPzWc9Iashn
+[2013-02-28 22:53:18] INFO: Retrying Post
+[2013-02-28 22:53:18] WARN: Removing Zero.Hour.US.S01E03.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-02-28 22:53:18] INFO: Remove Torrent: 16
+[2013-02-28 22:53:18] INFO: Transmission processing Complete
+[2013-02-28 22:53:18] INFO: Searching Zero.Hour.US.S01E03.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-02-28 22:53:18] INFO: Completed rar processing on Zero.Hour.US.S01E03.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-28 22:53:18] INFO: Begin processing Zero.Hour.US.S01E03.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-02-28 22:53:18] WARN: Moving Zero.Hour.US.S01E03.720p.HDTV.X264-DIMENSION [PublicHD]/Zero.Hour.US.S01E03.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-02-28 22:53:18] INFO: Double Checking to make sure Zero.Hour.US.S01E03.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-02-28 22:53:18] WARN: Deleting Zero.Hour.US.S01E03.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-02-28 22:53:18] INFO: Begin FileBot Rename
+[2013-02-28 22:53:33] INFO: Filebot Rename Successful!
+[2013-02-28 22:53:33] INFO: FileBot History From: 2013-02-28T22:53:33.343-05:00
+[2013-02-28 22:53:33] INFO: FROM: Zero.Hour.US.S01E03.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Zero Hour (2013)/Zero Hour (2013) - s01e03 - Pendulum.mkv
+[2013-02-28 22:53:33] INFO: End FileBot History
+[2013-02-28 22:53:33] INFO: Begin Updating XBMC
+[2013-02-28 22:53:37] INFO: XBMC Update is probably complete?
+[2013-02-28 22:53:37] INFO: Script Completed successfully
+[2013-02-28 23:09:57] INFO: Script Initialized
+[2013-02-28 23:09:57] INFO: Transmission processing Started
+[2013-02-28 23:09:57] INFO: Get All Downloads
+[2013-02-28 23:09:57] INFO: Bad Session ID changing...
+[2013-02-28 23:09:57] INFO: New Session ID: 9Zn54PyZ88UrB1Qu1KMaqtLjUQbllGqE2oMaQyPzWc9Iashn
+[2013-02-28 23:09:57] INFO: Retrying Post
+[2013-02-28 23:09:57] WARN: Removing Anger.Management.S02E08.720p.HDTV.x264-IMMERSE [PublicHD] from Transmission
+[2013-02-28 23:09:57] INFO: Remove Torrent: 18
+[2013-02-28 23:09:57] INFO: Transmission processing Complete
+[2013-02-28 23:09:57] INFO: Searching Anger.Management.S02E08.720p.HDTV.x264-IMMERSE [PublicHD] for rar files
+[2013-02-28 23:09:57] INFO: Completed rar processing on Anger.Management.S02E08.720p.HDTV.x264-IMMERSE [PublicHD]
+[2013-02-28 23:09:57] INFO: Begin processing Anger.Management.S02E08.720p.HDTV.x264-IMMERSE [PublicHD] for video files
+[2013-02-28 23:09:57] WARN: Moving Anger.Management.S02E08.720p.HDTV.x264-IMMERSE [PublicHD]/Anger.Management.S02E08.720p.HDTV.x264-IMMERSE.mkv to /home/jemily/finished/tvshows
+[2013-02-28 23:09:57] INFO: Double Checking to make sure Anger.Management.S02E08.720p.HDTV.x264-IMMERSE [PublicHD] is clean
+[2013-02-28 23:09:57] WARN: Deleting Anger.Management.S02E08.720p.HDTV.x264-IMMERSE [PublicHD]
+[2013-02-28 23:09:57] INFO: Begin FileBot Rename
+[2013-02-28 23:10:16] INFO: Filebot Rename Successful!
+[2013-02-28 23:10:17] INFO: FileBot History From: 2013-02-28T23:10:16.418-05:00
+[2013-02-28 23:10:17] INFO: FROM: Anger.Management.S02E08.720p.HDTV.x264-IMMERSE.mkv TO: /mnt/tvshows/Anger Management/Anger Management - s02e08 - Charlie and Cee Lo.mkv
+[2013-02-28 23:10:17] INFO: End FileBot History
+[2013-02-28 23:10:17] INFO: Begin Updating XBMC
+[2013-02-28 23:10:20] INFO: XBMC Update is probably complete?
+[2013-02-28 23:10:20] INFO: Script Completed successfully
+[2013-02-28 23:45:35] INFO: Script Initialized
+[2013-02-28 23:45:35] INFO: Transmission processing Started
+[2013-02-28 23:45:35] INFO: Get All Downloads
+[2013-02-28 23:45:35] INFO: Bad Session ID changing...
+[2013-02-28 23:45:35] INFO: New Session ID: 9Zn54PyZ88UrB1Qu1KMaqtLjUQbllGqE2oMaQyPzWc9Iashn
+[2013-02-28 23:45:35] INFO: Retrying Post
+[2013-02-28 23:45:35] WARN: Removing Archer.2009.S04E07.720p.HDTV.x264-IMMERSE [PublicHD] from Transmission
+[2013-02-28 23:45:35] INFO: Remove Torrent: 19
+[2013-02-28 23:45:35] INFO: Transmission processing Complete
+[2013-02-28 23:45:35] INFO: Searching Archer.2009.S04E07.720p.HDTV.x264-IMMERSE [PublicHD] for rar files
+[2013-02-28 23:45:35] INFO: Completed rar processing on Archer.2009.S04E07.720p.HDTV.x264-IMMERSE [PublicHD]
+[2013-02-28 23:45:35] INFO: Begin processing Archer.2009.S04E07.720p.HDTV.x264-IMMERSE [PublicHD] for video files
+[2013-02-28 23:45:35] WARN: Moving Archer.2009.S04E07.720p.HDTV.x264-IMMERSE [PublicHD]/Archer.2009.S04E07.720p.HDTV.x264-IMMERSE.mkv to /home/jemily/finished/tvshows
+[2013-02-28 23:45:35] INFO: Double Checking to make sure Archer.2009.S04E07.720p.HDTV.x264-IMMERSE [PublicHD] is clean
+[2013-02-28 23:45:35] WARN: Deleting Archer.2009.S04E07.720p.HDTV.x264-IMMERSE [PublicHD]
+[2013-02-28 23:45:35] INFO: Begin FileBot Rename
+[2013-02-28 23:45:50] INFO: Filebot Rename Successful!
+[2013-02-28 23:45:50] INFO: FileBot History From: 2013-02-28T23:45:49.635-05:00
+[2013-02-28 23:45:50] INFO: FROM: Archer.2009.S04E07.720p.HDTV.x264-IMMERSE.mkv TO: /mnt/tvshows/Archer (2009)/Archer (2009) - s04e07 - Live and Let Dine.mkv
+[2013-02-28 23:45:50] INFO: End FileBot History
+[2013-02-28 23:45:50] INFO: Begin Updating XBMC
+[2013-02-28 23:45:55] INFO: XBMC Update is probably complete?
+[2013-02-28 23:45:55] INFO: Script Completed successfully
+[2013-03-01 22:29:15] INFO: Script Initialized
+[2013-03-01 22:29:15] INFO: Transmission processing Started
+[2013-03-01 22:29:15] INFO: Get All Downloads
+[2013-03-01 22:29:15] INFO: Bad Session ID changing...
+[2013-03-01 22:29:15] INFO: New Session ID: 9zDhja5rtgtYu2bFU1CX62DFS2c3IgtfJJ6qbRzfLluLQPbM
+[2013-03-01 22:29:15] INFO: Retrying Post
+[2013-03-01 22:29:15] WARN: Removing Nikita.S03E12.720p.HDTV.X264-DIMENSION [PublicHD] from Transmission
+[2013-03-01 22:29:15] INFO: Remove Torrent: 20
+[2013-03-01 22:29:15] INFO: Transmission processing Complete
+[2013-03-01 22:29:15] INFO: Searching Nikita.S03E12.720p.HDTV.X264-DIMENSION [PublicHD] for rar files
+[2013-03-01 22:29:15] INFO: Completed rar processing on Nikita.S03E12.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-03-01 22:29:15] INFO: Begin processing Nikita.S03E12.720p.HDTV.X264-DIMENSION [PublicHD] for video files
+[2013-03-01 22:29:15] WARN: Moving Nikita.S03E12.720p.HDTV.X264-DIMENSION [PublicHD]/Nikita.S03E12.720p.HDTV.X264-DIMENSION.mkv to /home/jemily/finished/tvshows
+[2013-03-01 22:29:15] INFO: Double Checking to make sure Nikita.S03E12.720p.HDTV.X264-DIMENSION [PublicHD] is clean
+[2013-03-01 22:29:15] WARN: Deleting Nikita.S03E12.720p.HDTV.X264-DIMENSION [PublicHD]
+[2013-03-01 22:29:15] INFO: Begin FileBot Rename
+[2013-03-01 22:29:37] INFO: Filebot Rename Successful!
+[2013-03-01 22:29:37] INFO: FileBot History From: 2013-03-01T22:29:37-05:00
+[2013-03-01 22:29:37] INFO: FROM: Nikita.S03E12.720p.HDTV.X264-DIMENSION.mkv TO: /mnt/tvshows/Nikita/Nikita - s03e12 - With Fire.mkv
+[2013-03-01 22:29:37] INFO: End FileBot History
+[2013-03-01 22:29:37] INFO: Begin Updating XBMC
+[2013-03-01 22:29:41] INFO: XBMC Update is probably complete?
+[2013-03-01 22:29:41] INFO: Script Completed successfully
+[2013-03-02 06:04:44] INFO: Script Initialized
+[2013-03-02 06:04:44] INFO: Transmission processing Started
+[2013-03-02 06:04:44] INFO: Get All Downloads
+[2013-03-02 06:04:44] INFO: Bad Session ID changing...
+[2013-03-02 06:04:44] INFO: New Session ID: xLfzYn5F6zGUrTcpG8v89RBkjBENlWxGAb7RPcRJOne5IM1J
+[2013-03-02 06:04:44] INFO: Retrying Post
+[2013-03-02 06:04:44] WARN: Removing Star.Wars.The.Clone.Wars.S05E20.The.Wrong.Jedi.720p.WEB-DL.x264.AAC from Transmission
+[2013-03-02 06:04:44] INFO: Remove Torrent: 21
+[2013-03-02 06:04:44] INFO: Transmission processing Complete
+[2013-03-02 06:04:44] INFO: Searching Star.Wars.The.Clone.Wars.S05E20.The.Wrong.Jedi.720p.WEB-DL.x264.AAC for rar files
+[2013-03-02 06:04:44] INFO: Completed rar processing on Star.Wars.The.Clone.Wars.S05E20.The.Wrong.Jedi.720p.WEB-DL.x264.AAC
+[2013-03-02 06:04:44] INFO: Begin processing Star.Wars.The.Clone.Wars.S05E20.The.Wrong.Jedi.720p.WEB-DL.x264.AAC for video files
+[2013-03-02 06:04:44] WARN: Moving Star.Wars.The.Clone.Wars.S05E20.The.Wrong.Jedi.720p.WEB-DL.x264.AAC/Star.Wars.The.Clone.Wars.S05E20.The.Wrong.Jedi.720p.WEB-DL.x264.AAC.mp4 to /home/jemily/finished/tvshows
+[2013-03-02 06:04:44] INFO: Double Checking to make sure Star.Wars.The.Clone.Wars.S05E20.The.Wrong.Jedi.720p.WEB-DL.x264.AAC is clean
+[2013-03-02 06:04:44] WARN: Deleting Star.Wars.The.Clone.Wars.S05E20.The.Wrong.Jedi.720p.WEB-DL.x264.AAC
+[2013-03-02 06:04:44] INFO: Begin FileBot Rename
+[2013-03-02 06:04:59] INFO: Filebot Rename Successful!
+[2013-03-02 06:04:59] INFO: FileBot History From: 2013-03-02T06:04:59.044-05:00
+[2013-03-02 06:04:59] INFO: FROM: Star.Wars.The.Clone.Wars.S05E20.The.Wrong.Jedi.720p.WEB-DL.x264.AAC.mp4 TO: /mnt/tvshows/Star Wars The Clone Wars/Star Wars The Clone Wars - s05e20 - The Wrong Jedi.mp4
+[2013-03-02 06:04:59] INFO: End FileBot History
+[2013-03-02 06:04:59] INFO: Begin Updating XBMC
+[2013-03-02 06:05:02] INFO: XBMC Update is probably complete?
+[2013-03-02 06:05:02] INFO: Script Completed successfully
+[2013-03-02 06:58:54] INFO: Script Initialized
+[2013-03-02 06:58:54] INFO: Transmission processing Started
+[2013-03-02 06:58:54] INFO: Get All Downloads
+[2013-03-02 06:58:54] INFO: Bad Session ID changing...
+[2013-03-02 06:58:54] INFO: New Session ID: xLfzYn5F6zGUrTcpG8v89RBkjBENlWxGAb7RPcRJOne5IM1J
+[2013-03-02 06:58:54] INFO: Retrying Post
+[2013-03-02 06:58:54] WARN: Removing Teenage.Mutant.Ninja.Turtles.2012.S01E17.TCRI.720p.WEB-DL.x264.AAC from Transmission
+[2013-03-02 06:58:54] INFO: Remove Torrent: 22
+[2013-03-02 06:58:54] INFO: Transmission processing Complete
+[2013-03-02 06:58:54] INFO: Searching Teenage.Mutant.Ninja.Turtles.2012.S01E17.TCRI.720p.WEB-DL.x264.AAC for rar files
+[2013-03-02 06:58:54] INFO: Completed rar processing on Teenage.Mutant.Ninja.Turtles.2012.S01E17.TCRI.720p.WEB-DL.x264.AAC
+[2013-03-02 06:58:54] INFO: Begin processing Teenage.Mutant.Ninja.Turtles.2012.S01E17.TCRI.720p.WEB-DL.x264.AAC for video files
+[2013-03-02 06:58:54] WARN: Moving Teenage.Mutant.Ninja.Turtles.2012.S01E17.TCRI.720p.WEB-DL.x264.AAC/Teenage.Mutant.Ninja.Turtles.2012.S01E17.TCRI.720p.WEB-DL.x264.AAC.mp4 to /home/jemily/finished/tvshows
+[2013-03-02 06:58:54] INFO: Double Checking to make sure Teenage.Mutant.Ninja.Turtles.2012.S01E17.TCRI.720p.WEB-DL.x264.AAC is clean
+[2013-03-02 06:58:54] WARN: Deleting Teenage.Mutant.Ninja.Turtles.2012.S01E17.TCRI.720p.WEB-DL.x264.AAC
+[2013-03-02 06:58:54] INFO: Begin FileBot Rename
+[2013-03-02 06:59:10] INFO: Filebot Rename Successful!
+[2013-03-02 06:59:10] INFO: FileBot History From: 2013-03-02T06:59:10.114-05:00
+[2013-03-02 06:59:10] INFO: FROM: Teenage.Mutant.Ninja.Turtles.2012.S01E17.TCRI.720p.WEB-DL.x264.AAC.mp4 TO: /mnt/tvshows/Teenage Mutant Ninja Turtles (2012)/Teenage Mutant Ninja Turtles (2012) - s01e17 - TCRI.mp4
+[2013-03-02 06:59:10] INFO: End FileBot History
+[2013-03-02 06:59:10] INFO: Begin Updating XBMC
+[2013-03-02 06:59:13] INFO: XBMC Update is probably complete?
+[2013-03-02 06:59:13] INFO: Script Completed successfully
