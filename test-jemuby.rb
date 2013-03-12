@@ -12,18 +12,17 @@ CURRENTSCRIPTDIR = File.dirname(__FILE__)
 
 #Process Configuration file an create it if it does not exist
 if File.exist?("/home/#{USER}/.jemuby/config.yml")
-  config = YAML.load_file("/home/#{USER}/.jemuby/config.yml")
+  CONFIG = YAML.load_file("/home/#{USER}/.jemuby/config.yml")["config"]
 else
   fileutils.mkdir("/home/#{USER}/.jemuby/") unless File.exists?("/home/#{USER}/.jemuby/")
   fileutils.mv("#{CURRENTSCRIPTDIR}/config.yml.sample", "/home/#{USER}/.jemuby/config.yml")
-  config = YAML.load_file("/home/#{USER}/.jemuby/config.yml")
+  CONFIG = YAML.load_file("/home/#{USER}/.jemuby/config.yml")["config"]
 end
-config["config"].each { |key, value| instance_variable_set("@#{key}", value) }
 
 #Initialize Logger
-if @LOGTOFILE == false
+if CONFIG["logtofile"] == false
   log = Logger.new(STDOUT)
-elsif @LOGTOFILE == true
+elsif CONFIG["logtofile"] == true
   log = Logger.new(@LOGFILE, 'weekly')
 end
 log.level = Logger::INFO
@@ -36,9 +35,9 @@ log.info "Script Initialized"
 #Transmission Processing
 processGo = false
 log.info "Transmission processing Started"
-xmission = XmissionApi.new(:username => @TRANSMISSION_USER,:password => @TRANSMISSION_PASSWORD,:url => @TRANSMISSION_URL,:logger => log)
+xmission = XmissionApi.new(:username => CONFIG["transmission_user"],:password => CONFIG["transmission_password"],:url => CONFIG["transmission_url"],:logger => log)
 xmission.all.each do |download|
-  if download["isFinished"] == true && download["downloadDir"] == @BASE_PATH + "/"
+  if download["isFinished"] == true && download["downloadDir"] == CONFIG["base_path"] + "/"
     log.warn "Removing #{download["name"]} from Transmission"
     xmission.remove(download["id"])
     processGo = true
@@ -47,19 +46,19 @@ end
 log.info "Transmission processing Complete"
 
 #File Processing
-if processGo == true || @RUNFROM_CLI == true
+if processGo == true || CONFIG["runfrom_cli"] == true
   fm = FileManipulator.new(log)
-  Dir.chdir(@BASE_PATH)
+  Dir.chdir(CONFIG["base_path"])
   Dir.glob("*").each do |dir_entry|
     if File.directory?(dir_entry)
       fm.process_rars(dir_entry)
-      fm.move_videos(dir_entry, @BASE_PATH, @MIN_VIDEOSIZE)
-      fm.delete_folder(dir_entry, @MIN_VIDEOSIZE)
+      fm.move_videos(dir_entry, CONFIG["base_path"], CONFIG["min_videosize"])
+      fm.delete_folder(dir_entry, CONFIG["min_videosize"])
     end
   end
   fb = FileBotAPI.new(log)
-  fb.filebot_rename(@BASE_PATH, @TVSHOW_BASEPATH, @FILEBOT_LOG)
+  fb.filebot_rename(CONFIG["base_path"], CONFIG["tvshow_basepath"], CONFIG["filebot_log"])
   xb = XbmcApi.new(log)
-  xb.update_xbmc(@XBMC_HOSTNAME, @XBMC_PORT)
+  xb.update_xbmc(CONFIG["xbmc_hostname"], CONFIG["xbmc_port"])
   log.info "Script Completed successfully"
 end
