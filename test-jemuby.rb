@@ -12,9 +12,8 @@ CURRENTSCRIPTDIR = File.dirname(__FILE__)
 
 #Process Configuration file an create it if it does not exist
 if File.exist?("/home/#{USER}/.jemuby/config.yml")
-  YAML.load_file("/home/#{USER}/.jemuby/config.yml")
+  config = YAML.load_file("/home/#{USER}/.jemuby/config.yml")
 else
-  if 
   fileutils.mkdir("/home/#{USER}/.jemuby/") unless File.exists?("/home/#{USER}/.jemuby/")
   fileutils.mv("#{CURRENTSCRIPTDIR}/config.yml.sample", "/home/#{USER}/.jemuby/config.yml")
   config = YAML.load_file("/home/#{USER}/.jemuby/config.yml")
