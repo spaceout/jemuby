@@ -1,0 +1,13 @@
+config:
+  BASE_PATH: PATH/TO/FINISHED/FILDER
+  TVSHOW_BASEPATH: /PATH/TO/TVSHOW/SHARE
+  MIN_VIDEOSIZE: 60000000
+  XBMC_HOSTNAME: XBMCHOSTNAME
+  XBMC_PORT: 9090
+  TRANSMISSION_URL: http://TRANSMISSIONIP:9091/transmission/rpc
+  TRANSMISSION_USER: transmission
+  TRANSMISSION_PASSWORD: transmission
+  FILEBOT_LOG: /home/jemily/.filebot/history.xml
+  RUNFROM_CLI: true
+  LOGTOFILE: true
+  LOGFILE: /home/jemily/.jemuby/jemuby_log.txt
