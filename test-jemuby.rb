@@ -15,7 +15,7 @@ if File.exist?("/home/#{USER}/.jemuby/config.yml")
   CONFIG = YAML.load_file("/home/#{USER}/.jemuby/config.yml")["config"]
 else
   FileUtils.mkdir("/home/#{USER}/.jemuby/") unless File.exists?("/home/#{USER}/.jemuby/")
-  FileUtils.mv("#{CURRENTSCRIPTDIR}/config.yml.sample", "/home/#{USER}/.jemuby/config.yml")
+  FileUtils.cp("#{CURRENTSCRIPTDIR}/config.yml.sample", "/home/#{USER}/.jemuby/config.yml")
   CONFIG = YAML.load_file("/home/#{USER}/.jemuby/config.yml")["config"]
   abort "Please edit /home/#{USER}/.jemuby/config.yml and relaunch"
 end
