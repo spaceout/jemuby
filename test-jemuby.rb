@@ -14,8 +14,8 @@ CURRENTSCRIPTDIR = File.dirname(__FILE__)
 if File.exist?("/home/#{USER}/.jemuby/config.yml")
   CONFIG = YAML.load_file("/home/#{USER}/.jemuby/config.yml")["config"]
 else
-  fileutils.mkdir("/home/#{USER}/.jemuby/") unless File.exists?("/home/#{USER}/.jemuby/")
-  fileutils.mv("#{CURRENTSCRIPTDIR}/config.yml.sample", "/home/#{USER}/.jemuby/config.yml")
+  FileUtils.mkdir("/home/#{USER}/.jemuby/") unless File.exists?("/home/#{USER}/.jemuby/")
+  FileUtils.mv("#{CURRENTSCRIPTDIR}/config.yml.sample", "/home/#{USER}/.jemuby/config.yml")
   CONFIG = YAML.load_file("/home/#{USER}/.jemuby/config.yml")["config"]
 end
 
