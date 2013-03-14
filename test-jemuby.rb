@@ -24,7 +24,7 @@ end
 if CONFIG["logtofile"] == false
   log = Logger.new(STDOUT)
 elsif CONFIG["logtofile"] == true
-  log = Logger.new(@LOGFILE, 'weekly')
+  log = Logger.new(CONFIG["logfile", 'weekly')
 end
 log.level = Logger::INFO
 log.datetime_format = "%Y-%m-%d %H:%M:%S"
