@@ -8,6 +8,9 @@ require_relative 'xbmcapi'
 require_relative 'filebotapi'
 
 USER = ENV['USER']
+if USER.empty?
+  USER = CONFIG["user"]
+end
 CURRENTSCRIPTDIR = File.dirname(__FILE__)
 
 #Process Configuration file an create it if it does not exist
