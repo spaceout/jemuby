@@ -11,3 +11,4 @@ config:
   runfrom_cli: true
   logtofile: true
   logfile: /home/jemily/.jemuby/jemuby_log.txt
+  user: someusername
