@@ -2,12 +2,13 @@ require "pathname"
 require "fileutils"
 require "logger"
 require "yaml"
+require "etc"
 require_relative 'filemanipulator'
 require_relative 'xmissionapi'
 require_relative 'xbmcapi'
 require_relative 'filebotapi'
 
-USER = ENV['USER']
+USER = Etc.getpwuid(Process.uid).name
 CURRENTSCRIPTDIR = File.dirname(__FILE__)
 
 #Process Configuration file an create it if it does not exist
