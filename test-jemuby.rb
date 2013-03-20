@@ -59,7 +59,7 @@ if processGo == true || CONFIG["runfrom_cli"] == true
     end
   end
   fb = FileBotAPI.new(log)
-  fb.filebot_rename(CONFIG["base_path"], CONFIG["tvshow_basepath"], CONFIG["filebot_log"])
+  fb.filebot_rename(CONFIG["base_path"], CONFIG["tvshow_basepath"], CONFIG["filebot_log"], USER)
   xb = XbmcApi.new(log)
   xb.update_xbmc(CONFIG["xbmc_hostname"], CONFIG["xbmc_port"])
   log.info "Script Completed successfully"

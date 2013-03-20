@@ -1,7 +1,7 @@
 config:
   base_path: /path/to/finished
   tvshow_basepath: /path/to/tvshowshare
-  min_videosize: 60000000
+  min_videosize: 65000000
   xbmc_hostname: xbmchostname
   xbmc_port: 9090
   transmission_url: http://transmissionIP:9091/transmission/rpc

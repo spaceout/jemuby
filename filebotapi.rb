@@ -6,9 +6,9 @@ class FileBotAPI
     @log = logger || Logger.new(STDOUT)
   end
 
-  def filebot_rename(base_path, tvshow_basepath, filebot_log)
+  def filebot_rename(base_path, tvshow_basepath, filebot_log, username)
     @log.info "Begin FileBot Rename"
-    fb_result = `filebot -rename #{base_path} --db thetvdb --format \"#{tvshow_basepath}/{n}/{n} - s{s.pad(2)}e{es*.pad(2)join('e')} - {t}\" -non-strict 2>&1`
+    fb_result = `HOME=/home/#{username} filebot -rename #{base_path} --db thetvdb --format \"#{tvshow_basepath}/{n}/{n} - s{s.pad(2)}e{es*.pad(2)join('e')} - {t}\" -non-strict 2>&1`
     if $? == 0
       @log.info "Filebot Rename Successful!"
       get_history(filebot_log)
